@@ -1,0 +1,8 @@
+syntax: glob
+*~
+*.bak
+*.backup
+.idea/**
+.gradle/**
+bin/**
+build/**
